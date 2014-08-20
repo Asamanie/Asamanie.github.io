@@ -1,18 +1,7 @@
 # Site settings
 title: Andrew Samaniego blog
 email: andrew.x.samaniego@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Definition of customer service
-the assistance and advice provided by a company to those people who buy or use its products or services.			
-It happens to each and every one of us, bad customer service!  Now a days companies are spending hundreds of thousands of dollars to gain customers attention just to blow it all with horrible customer service.
-Some typical industry standard cost of customer acquisition values, the amount of money each company spends on average on marketing and advertising to acquire just one new customer:
-Priceline.com:		 $7
-Sprint PCS:      	 $315
-Barnesandnoble.com:	 $10
-TD Waterhouse:		 $175									
-Several studies have been done to prove that it cost somewhere between 4 and 10 times more to gain a new customer than it does to keep and existing one.
-In all industries I have worked, taking care of my customers has always been number one on my list.
-
+description: 
 baseurl: "andrewxsamaniego.com/blog" # the subpath of your site, e.g. /blog/
 url: "http://andrewxsamaniego.com" # the base hostname & protocol for your site
 twitter_username: 210AxS
@@ -20,3 +9,9 @@ github_username:  Asamanie
 
 # Build settings
 markdown: kramdown
+
+# > # this means to ignore newlines until "baseurl:" Definition of customer service the assistance and advice provided by a company to those people who buy or use its products or services. It happens to each and every one of us, bad customer service!  Now a days companies are spending hundreds of thousands of dollars to gain customers attention just to blow it all with horrible customer service. Some typical industry standard cost of customer acquisition values, the amount of money each company spends on average on marketing and advertising to acquire just one new customer: Priceline.com: $7 Sprint PCS: $315
+# Barnesandnoble.com:	 $10
+# TD Waterhouse:		 $175									
+# Several studies have been done to prove that it cost somewhere between 4 and 10 times more to gain a new customer than it does to keep and existing one.
+# In all industries I have worked, taking care of my customers has always been number one on my list.
